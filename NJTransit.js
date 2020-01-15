@@ -1,10 +1,11 @@
 // ==UserScript==
 // @name        NJTranshit Filter
-// @namespace   Violentmonkey Scripts
+// @namespace   ShadowclysmUserScripts
 // @match       https://njtranshit.com/schedule/9/northeast-corridor*
 // @grant       none
 // @version     1.0
 // @author      https://github.com/Shadowclysm
+// @downloadURL https://raw.githubusercontent.com/Shadowclysm/UserScripts/master/NJTransit.js
 // @updateURL   https://raw.githubusercontent.com/Shadowclysm/UserScripts/master/NJTransit.js
 // ==/UserScript==
 
